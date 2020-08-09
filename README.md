@@ -6,3 +6,6 @@
 
 
 #### 이전 논문에서 op, nonop 분리 구현 
+
+
+- two linear regression, 변수 구분 안됐을때 발생하는 오류 : negative r-squared
