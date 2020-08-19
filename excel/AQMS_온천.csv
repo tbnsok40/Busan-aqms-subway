@@ -1,4 +1,4 @@
-﻿측정소,년,월,일,시,CO,NO₂,PM10,PM2.5,Temp,direction(wind),speed(wind),Precipitation
+﻿측정소,year,월,일,시,CO,NO₂,PM10,PM2.5,Temp,direction(wind),speed(wind),Precipitation
 801 온천동,2014,1,1,1,1.1,0.015,96,,7.3,283.3,6.1,0
 801 온천동,2014,1,1,2,0.9,0.014,101,,6.5,296.6,6.4,0
 801 온천동,2014,1,1,3,0.8,0.012,104,,6.6,289,6.7,0
